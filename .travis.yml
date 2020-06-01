@@ -11,14 +11,13 @@ before_script:
 
 # Compiler selection
 compiler:
-  - clang
   - gcc
 
 
 # Build steps
 script: 
   - cd ${TRAVIS_BUILD_DIR}
-  - make
+  - gcc -g -o cello cello.c
 
 
 after_success:
