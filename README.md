@@ -1,6 +1,6 @@
 # cello
 
-![RPM Build](https://github.com/sturivny/cello/workflows/RPM%20Build/badge.svg)
+![Github Actions RPM Build](https://github.com/sturivny/cello/workflows/RPM%20Build/badge.svg) [![Travis Build Status](https://travis-ci.com/sturivny/cello.svg?branch=master)](https://travis-ci.com/sturivny/cello)
 
 C program to print **Hello World**
 
