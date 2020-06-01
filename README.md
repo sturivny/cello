@@ -2,7 +2,7 @@
 
 ![RPM Build](https://github.com/sturivny/cello/workflows/RPM%20Build/badge.svg)
 
-Small C program to print **Hello World**
+C program to print **Hello World**
 
 ## Manual Building
 
