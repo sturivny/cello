@@ -22,3 +22,5 @@ jobs:
 
       - name: Super-Linter
         uses: github/super-linter@v3.10.0
+        env:
+          FILTER_REGEX_INCLUDE: Jenkins*
